@@ -1,5 +1,5 @@
 const API_URL =
-  process.env.NEXT_PUBLIC_PROD_BACKEND_API_URL || "http://localhost:5001/api";
+  process.env.NEXT_PUBLIC_PROD_BACKEND_API_URL || "https://backend-695i.onrender.com/api";
 
 // Define the Rule type for audience rules
 type Rule = {
